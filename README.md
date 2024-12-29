@@ -6,6 +6,7 @@ A summary of articles, and visualizations related to hyperspectral imaging (HSI)
 Hyperspectral imaging (HSI) is a powerful technology that captures and analyzes light across a wide range of wavelengths. Unlike traditional cameras that record only red, green, and blue (RGB) colors, hyperspectral sensors collect data in hundreds of continuous spectral bands, creating a "spectral fingerprint" for each pixel in an image.
 
 📸 How it Works:
+
 Each pixel in a hyperspectral image contains a detailed spectrum of light, enabling the identification and analysis of materials, objects, and processes that are invisible to the naked eye.
 
 🌍 Applications:
