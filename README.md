@@ -20,7 +20,7 @@ Each pixel in a hyperspectral image contains a detailed spectrum of light, enabl
 Hyperspectral imaging allows us to see beyond what human eyes can perceive, opening up endless possibilities for research, technology, and innovation.
 
 <p align="center">
-  <img width="600" src="[/assets/anomaly_detection_example1.PNG](https://files.resources.altium.com/sites/default/files/inline-images/hyperspectral1.png)" "Example of anomaly detection.">
+  <img width="600" src="[hyperspectral1.png)" "Example of anomaly detection.">
 </p>
 
 ## Table of Contents
