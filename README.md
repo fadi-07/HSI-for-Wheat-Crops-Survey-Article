@@ -23,17 +23,17 @@ Hyperspectral imaging allows us to see beyond what human eyes can perceive, open
 - [Methodology](#Methodology)
 - [Supervised Learning](#Supervised-Learning)
   - [CNN](#CNN)
-  - [DBN](#DBN)
-  - [GAN](#GAN)
   - [RNN](#RNN)
-  - [SAE](#SAE)
-  - [TL](#TL)
   - [Transformer](#Transformer)
   - [Mamba](#Mamba)
+  - [SAE](#SAE)
+  - [TL](#TL)
+  - [DBN](#DBN)
 - [Semi-Supervised Learning](#Semi-Supervised-Learning)
 - [Unsupervised Learning](#Unsupervised-Learning)
 
 ## Methodology
+### Supervised Learning
 ### CNN
 - Kshitiz Dhakal, Upasana Sivaramakrishnan, Xuemei Zhang, Kassaye Belay, Joseph Oakes, Xing Wei, and Song Li. Machine learning analysis of
 hyperspectral images of damaged wheat kernels. Sensors, 23(7):3523, 2023. [Paper](https://www.mdpi.com/1424-8220/23/7/3523)
@@ -110,7 +110,32 @@ wheat seed using hyperspectral images. Sensors, 23(19):8116, 2023. [Paper](https
 ### DBN
 - Chenming Li, Yongchang Wang, Xiaoke Zhang, Hongmin Gao, Yao Yang, and Jiawei Wang. Deep belief network for spectral–spatial classification
 of hyperspectral remote sensor data. Sensors, 19(1):204, 2019. [Paper](https://www.mdpi.com/1424-8220/19/1/204)
-- A Sellami and IR Farah. Spectra-spatial graph-based deep restricted boltzmann networks for hyperspectral image classification. In 2019 PhotonIcs
-& Electromagnetics Research Symposium-Spring (PIERS-Spring), pages 1055–1062. IEEE, 2019. [Paper](https://ieeexplore.ieee.org/abstract/document/9017309)
+- A Sellami and IR Farah. Spectra-spatial graph-based deep restricted boltzmann networks for hyperspectral image classification. In 2019 PhotonIcs & Electromagnetics Research Symposium-Spring (PIERS-Spring), pages 1055–1062. IEEE, 2019. [Paper](https://ieeexplore.ieee.org/abstract/document/9017309)
 - Atif Mughees and Linmi Tao. Multiple deep-belief-network-based spectral-spatial classification of hyperspectral images. Tsinghua Science and
 Technology, 24(2):183–194, 2018. [Paper](https://ieeexplore.ieee.org/abstract/document/8595297)
+### Semi-Supervised Learning
+- Weidong Zhang, Zexu Li, Guohou Li, Peixian Zhuang, Guojia Hou, Qiang Zhang, and Chongyi Li. Gacnet: Generate adversarial-driven cross-aware
+network for hyperspectral wheat variety identification. IEEE Transactions on Geoscience and Remote Sensing, 2023. [Paper](https://ieeexplore.ieee.org/abstract/document/10375525)
+- Zhi He, Han Liu, Yiwen Wang, and Jie Hu. Generative adversarial networks-based semi-supervised learning for hyperspectral image classification. Remote Sensing, 9(10):1042, 2017. [Paper](https://www.mdpi.com/2072-4292/9/10/1042)
+- Ying Zhan, Yufeng Wang, and Xianchuan Yu. Semisupervised hyperspectral image classification based on generative adversarial networks and
+spectral angle distance. Scientific Reports, 13(1):22019, 2023. [Paper](https://www.nature.com/articles/s41598-023-49239-2)
+- Lin Zhu, Yushi Chen, Pedram Ghamisi, and Jón Atli Benediktsson. Generative adversarial networks for hyperspectral image classification. IEEE Transactions on Geoscience and Remote Sensing, 56(9):5046–5063, 2018. [Paper](https://ieeexplore.ieee.org/abstract/document/8307247)
+- Xiaobo Liu, Yulin Qiao, Yonghua Xiong, Zhihua Cai, and Peng Liu. Cascade conditional generative adversarial nets for spatial-spectral hyperspectral sample generation. Science China Information Sciences, 63:1–16, 2020. [Paper](https://link.springer.com/article/10.1007/s11432-019-2798-9)
+- Zhixiang Xue. A general generative adversarial capsule network for hyperspectral image spectral-spatial classification. Remote Sensing Letters,
+11(1):19–28, 2020. [Paper](https://www.tandfonline.com/doi/abs/10.1080/2150704X.2019.1681598)
+- Hongmin Gao, Dan Yao, Mingxia Wang, Chenming Li, Haiyun Liu, Zaijun Hua, and Jiawei Wang. A hyperspectral image classification method
+based on multi-discriminator generative adversarial networks. Sensors, 19(15):3269, 2019. [Paper](https://www.mdpi.com/1424-8220/19/15/3269)
+- Hao Li, Liu Zhang, Heng Sun, Zhenhong Rao, and Haiyan Ji. Discrimination of unsound wheat kernels based on deep convolutional generative
+adversarial network and near-infrared hyperspectral imaging technology. Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy,
+268:120722, 2022. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1386142521012993)
+- Junjie Wang, Feng Gao, Junyu Dong, and Qian Du. Adaptive dropblock-enhanced generative adversarial networks for hyperspectral image
+classification. IEEE Transactions on Geoscience and Remote Sensing, 59(6):5040–5053, 2020. [Paper](https://ieeexplore.ieee.org/abstract/document/9173809)
+- Jiaguo Zhao, Junjie Zhang, Huaxi Huang, and Jian Zhang. Enhancing semi-supervised few-shot hyperspectral image classification via progressive sample selection. Remote Sensing, 16(10):1747, 2024. [Paper](https://www.mdpi.com/2072-4292/16/10/1747)
+- Qingyan Wang, Meng Chen, Junping Zhang, Shouqiang Kang, and Yujing Wang. Improved active deep learning for semi-supervised classification
+of hyperspectral image. Remote Sensing, 14(1):171, 2021. [Paper](https://www.mdpi.com/2072-4292/14/1/171)
+- Hao Wu and Saurabh Prasad. Semi-supervised deep learning using pseudo labels for hyperspectral image classification. IEEE Transactions on
+Image Processing, 27(3):1259–1270, 2017. [Paper](https://ieeexplore.ieee.org/abstract/document/8105856)
+- Bei Fang, Ying Li, Haokui Zhang, and Jonathan Cheung-Wai Chan. Semi-supervised deep learning classification for hyperspectral image based on dual-strategy sample selection. Remote Sensing, 10(4):574, 2018. [Paper](https://www.mdpi.com/2072-4292/10/4/574?se=toc&so=cu)
+- Zhiyou Zhang. Semi-supervised hyperspectral image classification algorithm based on graph embedding and discriminative spatial information.
+Microprocessors and Microsystems, 75:103070, 2020. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0141933120300466)
+### Unsupervised Learning
