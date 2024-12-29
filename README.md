@@ -31,6 +31,9 @@ Hyperspectral imaging allows us to see beyond what human eyes can perceive, open
   - [DBN](#DBN)
 - [Semi-Supervised Learning](#Semi-Supervised-Learning)
 - [Unsupervised Learning](#Unsupervised-Learning)
+  - [DBN](#DBN)
+  - [SAE](#SAE)
+  - [Diffusion](#Diffusion)
 
 ## Methodology
 ### Supervised Learning
@@ -139,3 +142,24 @@ Image Processing, 27(3):1259–1270, 2017. [Paper](https://ieeexplore.ieee.org/a
 - Zhiyou Zhang. Semi-supervised hyperspectral image classification algorithm based on graph embedding and discriminative spatial information.
 Microprocessors and Microsystems, 75:103070, 2020. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0141933120300466)
 ### Unsupervised Learning
+### DBN
+- Jiangong Yang, Yanhui Guo, and Xili Wang. Feature extraction of hyperspectral images based on deep boltzmann machine. IEEE Geoscience and
+Remote Sensing Letters, 17(6):1077–1081, 2019. [Paper](https://ieeexplore.ieee.org/abstract/document/8879495)
+- Zhengying Li, Hong Huang, Zhen Zhang, and Guangyao Shi. Manifold-based multi-deep belief network for feature extraction of hyperspectral
+image. Remote Sensing, 14(6):1484, 2022. [Paper](https://www.mdpi.com/2072-4292/14/6/1484)
+### SAE
+- Atif Mughees and Linmi Tao. Efficient deep auto-encoder learning for the classification of hyperspectral images. In 2016 international conference on virtual reality and visualization (ICVRV), pages 44–51. IEEE, 2016. [Paper](https://ieeexplore.ieee.org/abstract/document/7938171)
+- Afsana Afrin, Md Rakibul Haque, and Md Al Mamun. Enhancing hyperspectral image compression through stacked autoencoder approach. In
+2024 6th International Conference on Electrical Engineering and Information & Communication Technology (ICEEICT), pages 1372–1377. IEEE, 2024. [Paper](https://ieeexplore.ieee.org/abstract/document/10534540)
+- Lei Deng, Bing Zhou, Jiaju Ying, and Runze Zhao. A noise estimation method for hyperspectral image based on stacked autoencoder. IEEE Access, 2023. [Paper](https://ieeexplore.ieee.org/abstract/document/10225536)
+- Chunhong Cao, Wei Song, Han Xiang, Hongbo Yi, Fen Xiao, and Xieping Gao. A two-stream stacked autoencoder with inter-class separability for
+bilinear hyperspectral unmixing. IEEE Transactions on Computational Imaging, 2024. [Paper](https://ieeexplore.ieee.org/abstract/document/10444024)
+- Lloyd Windrim, Rishi Ramakrishnan, Arman Melkumyan, Richard J Murphy, and Anna Chlingaryan. Unsupervised feature-learning for hyperspectral
+data with autoencoders. Remote Sensing, 11(7):864, 2019. [Paper](https://www.mdpi.com/2072-4292/11/7/864)
+### Diffusion
+- Li Pang, Xiangyu Rui, Long Cui, Hongzhong Wang, Deyu Meng, and Xiangyong Cao. Hir-diff: Unsupervised hyperspectral image restoration via
+improved diffusion models. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pages 3005–3014, 2024. [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Pang_HIR-Diff_Unsupervised_Hyperspectral_Image_Restoration_Via_Improved_Diffusion_Models_CVPR_2024_paper.html)
+- Xiangrong Zhang, Shunli Tian, Guanchun Wang, Huiyu Zhou, and Licheng Jiao. Diffucd: Unsupervised hyperspectral image change detection
+with semantic correlation diffusion model. arXiv preprint arXiv:2305.12410, 2023. [Paper](https://arxiv.org/abs/2305.12410)
+- Sam L Polk, Kangning Cui, Aland HY Chan, David A Coomes, Robert J Plemmons, and James M Murphy. Unsupervised diffusion and volume
+maximization-based clustering of hyperspectral images. Remote Sensing, 15(4):1053, 2023. [Paper](https://www.mdpi.com/2072-4292/15/4/1053)
