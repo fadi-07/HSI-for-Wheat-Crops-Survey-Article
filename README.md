@@ -10,10 +10,11 @@ Each pixel in a hyperspectral image contains a detailed spectrum of light, enabl
 
 🌍 Applications:
 
-Agriculture: Monitoring crop health, identifying diseases, and optimizing yields.
-Environmental Science: Tracking pollution and studying ecosystems.
-Medicine: Detecting diseases and analyzing tissue.
-Remote Sensing: Land cover classification and mineral exploration.
+- Agriculture: Monitoring crop health, identifying diseases, and optimizing yields.
+- Environmental Science: Tracking pollution and studying ecosystems.
+- Medicine: Detecting diseases and analyzing tissue.
+- Remote Sensing: Land cover classification and mineral exploration.
+  
 🔍 Why It Matters:
 Hyperspectral imaging allows us to see beyond what human eyes can perceive, opening up endless possibilities for research, technology, and innovation.
 ## Table of Contents
