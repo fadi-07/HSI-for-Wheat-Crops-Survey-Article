@@ -1,19 +1,5 @@
 # HSI-for-Wheat-Crops-Survey-Article
 A summary of articles, and visualizations related to hyperspectral imaging (HSI) Using Deep learning in wheat crops
-## Table of Contents
-
-- [Methodology](#Methodology)
-- [Supervised Learning](#Supervised-Learning)
-  - [CNN](#CNN)
-  - [DBN](#DBN)
-  - [GAN](#GAN)
-  - [RNN](#RNN)
-  - [SAE](#SAE)
-  - [TL](#TL)
-  - [Transformer](#Transformer)
-  - [Mamba](#Mamba)
-- [Semi-Supervised Learning](#Semi-Supervised-Learning)
-- [Unsupervised Learning](#Unsupervised-Learning)
 🌟 What is Hyperspectral Imaging (HSI)?
 
 Hyperspectral imaging (HSI) is a powerful technology that captures and analyzes light across a wide range of wavelengths. Unlike traditional cameras that record only red, green, and blue (RGB) colors, hyperspectral sensors collect data in hundreds of continuous spectral bands, creating a "spectral fingerprint" for each pixel in an image.
@@ -29,6 +15,20 @@ Medicine: Detecting diseases and analyzing tissue.
 Remote Sensing: Land cover classification and mineral exploration.
 🔍 Why It Matters:
 Hyperspectral imaging allows us to see beyond what human eyes can perceive, opening up endless possibilities for research, technology, and innovation.
+## Table of Contents
+
+- [Methodology](#Methodology)
+- [Supervised Learning](#Supervised-Learning)
+  - [CNN](#CNN)
+  - [DBN](#DBN)
+  - [GAN](#GAN)
+  - [RNN](#RNN)
+  - [SAE](#SAE)
+  - [TL](#TL)
+  - [Transformer](#Transformer)
+  - [Mamba](#Mamba)
+- [Semi-Supervised Learning](#Semi-Supervised-Learning)
+- [Unsupervised Learning](#Unsupervised-Learning)
 
 ## Methodology
 ### CNN
