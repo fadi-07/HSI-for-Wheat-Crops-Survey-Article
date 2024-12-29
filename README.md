@@ -1,5 +1,6 @@
 # HSI-for-Wheat-Crops-Survey-Article
 A summary of articles, and visualizations related to hyperspectral imaging (HSI) Using Deep learning in wheat crops
+
 🌟 What is Hyperspectral Imaging (HSI)?
 
 Hyperspectral imaging (HSI) is a powerful technology that captures and analyzes light across a wide range of wavelengths. Unlike traditional cameras that record only red, green, and blue (RGB) colors, hyperspectral sensors collect data in hundreds of continuous spectral bands, creating a "spectral fingerprint" for each pixel in an image.
