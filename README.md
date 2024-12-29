@@ -71,3 +71,28 @@ model for hyperspectral image classification. arXiv preprint arXiv:2405.12003, 2
 arXiv:2405.12487, 2024. [Paper](https://arxiv.org/abs/2405.12487)
 - Aitao Yang, Min Li, Yao Ding, Leyuan Fang, Yaoming Cai, and Yujie He. Graphmamba: An efficient graph structure learning vision mamba for
 hyperspectral image classification. arXiv preprint arXiv:2407.08255, 2024. [Paper](https://ieeexplore.ieee.org/abstract/document/10746459)
+### SAE
+- Chen Xing, Li Ma, and Xiaoquan Yang. Stacked denoise autoencoder based feature extraction and classification for hyperspectral images. Journal
+of Sensors, 2016(1):3632943, 2016. [Paper](https://onlinelibrary.wiley.com/doi/full/10.1155/2016/3632943)
+- Yang Bai, Xiyan Sun, Yuanfa Ji, Wentao Fu, and Jinli Zhang. Two-stage multi-dimensional convolutional stacked autoencoder network model for
+hyperspectral images classification. Multimedia Tools and Applications, 83(8):23489–23508, 2024. [Paper](https://link.springer.com/article/10.1007/s11042-023-16456-w)
+- Kun Liang, Jiani Huang, Ruiyin He, Qiujin Wang, Yinyin Chai, and Mingxia Shen. Comparison of vis-nir and swir hyperspectral imaging for the
+non-destructive detection of don levels in fusarium head blight wheat kernels and wheat flour. Infrared Physics & Technology, 106:103281, 2020. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1350449519309661)
+### TL
+- Yao Zhang, Jian Hui, Qiming Qin, Yuanheng Sun, Tianyuan Zhang, Hong Sun, and Minzan Li. Transfer-learning-based approach for leaf chlorophyll
+content estimation of winter wheat from hyperspectral data. Remote Sensing of Environment, 267:112724, 2021. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0034425721004442)
+- Hao Zhou, Xianwang Wang, Kunming Xia, Yi Ma, and Guowu Yuan. Transfer learning-based hyperspectral image classification using residual
+dense connection networks. Sensors, 24(9):2664, 2024. [Paper](https://www.mdpi.com/1424-8220/24/9/2664)
+- Xin Zhao, Yi Liang, Alan JX Guo, and Fei Zhu. Classification of small-scale hyperspectral images with multi-source deep transfer learning. Remote Sensing Letters, 11(4):303–312, 2020. [Paper](https://www.tandfonline.com/doi/abs/10.1080/2150704X.2020.1714772)
+- Rohit Bharti, Dipen Saini, and Rahul Malik. A novel approach for hyper spectral images using transfer learning. In IOP Conference Series: Materials Science and Engineering, volume 1022, page 012120. IOP Publishing, 2021. [Paper](https://iopscience.iop.org/article/10.1088/1757-899X/1022/1/012120/meta)
+- Xuefeng Jiang, Yue Zhang, Yi Li, Shuying Li, and Yanning Zhang. Hyperspectral image classification with transfer learning and markov random
+fields. IEEE Geoscience and Remote Sensing Letters, 17(3):544–548, 2019. [Paper](https://ieeexplore.ieee.org/abstract/document/8758842)
+- Xin Zhao, Shuo Liu, Haotian Que, Min Huang, and Qibing Zhu. Adfsnet: An adaptive domain feature separation network for the classification of
+wheat seed using hyperspectral images. Sensors, 23(19):8116, 2023. [Paper](https://www.mdpi.com/1424-8220/23/19/8116)
+### DBN
+- Chenming Li, Yongchang Wang, Xiaoke Zhang, Hongmin Gao, Yao Yang, and Jiawei Wang. Deep belief network for spectral–spatial classification
+of hyperspectral remote sensor data. Sensors, 19(1):204, 2019. [Paper](https://www.mdpi.com/1424-8220/19/1/204)
+- A Sellami and IR Farah. Spectra-spatial graph-based deep restricted boltzmann networks for hyperspectral image classification. In 2019 PhotonIcs
+& Electromagnetics Research Symposium-Spring (PIERS-Spring), pages 1055–1062. IEEE, 2019. [Paper](https://ieeexplore.ieee.org/abstract/document/9017309)
+- Atif Mughees and Linmi Tao. Multiple deep-belief-network-based spectral-spatial classification of hyperspectral images. Tsinghua Science and
+Technology, 24(2):183–194, 2018. [Paper](https://ieeexplore.ieee.org/abstract/document/8595297)
