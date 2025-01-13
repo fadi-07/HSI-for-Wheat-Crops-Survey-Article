@@ -39,6 +39,11 @@ Hyperspectral imaging allows us to see beyond what human eyes can perceive, open
   - [DBN](#DBN)
   - [SAE](#SAE)
   - [Diffusion](#Diffusion)
+- [Applications of HSI technology in wheat crops](#Applications-of-hsi-technology-in-wheat-crops)
+  - [Wheat Crop Classification](#Wheat-Crop-Classification)
+  - [Wheat Crop Nutrient Estimation](#Wheat-Crop-Nutrient-Estimation)
+  - [Wheat Crop Yield Estimation](#Wheat-Crop-Yield-Estimation)
+  - [Wheat Crop Disease Monitoring and Detection](#Wheat-Crop-Disease-Monitoring-and-Detection)
 
 ## Methodology
 ### Supervised Learning
@@ -168,3 +173,27 @@ improved diffusion models. In Proceedings of the IEEE/CVF Conference on Computer
 with semantic correlation diffusion model. arXiv preprint arXiv:2305.12410, 2023. [Paper](https://arxiv.org/abs/2305.12410)
 - Sam L Polk, Kangning Cui, Aland HY Chan, David A Coomes, Robert J Plemmons, and James M Murphy. Unsupervised diffusion and volume
 maximization-based clustering of hyperspectral images. Remote Sensing, 15(4):1053, 2023. [Paper](https://www.mdpi.com/2072-4292/15/4/1053)
+###Applications of HSI technology in wheat crops
+###Wheat Crop Classification
+- Xiu Jin, Lu Jie, Shuai Wang, Hai Jun Qi, and Shao Wen Li. Classifying wheat hyperspectral pixels of healthy heads and fusarium head blight disease using a deep neural network in the wild field. Remote Sensing, 10(3):395, 2018. [Paper](https://www.mdpi.com/2072-4292/10/3/395)
+- Kshitiz Dhakal, Upasana Sivaramakrishnan, Xuemei Zhang, Kassaye Belay, Joseph Oakes, Xing Wei, and Song Li. Machine learning analysis of hyperspectral images of damaged wheat kernels. Sensors, 23(7):3523, 2023. [Paper](https://www.mdpi.com/1424-8220/23/7/3523)
+- Erik Schou Dreier, Klavs Martin Sorensen, Toke Lund-Hansen, Birthe Møller Jespersen, and Kim Steenstrup Pedersen. Hyperspectral imaging for classification of bulk grain samples with deep convolutional neural networks. Journal of Near Infrared Spectroscopy, 30(3):107–121, 2022. [Paper](https://journals.sagepub.com/doi/abs/10.1177/09670335221078356)
+- Dongyan Zhang, Gao Chen, Huihui Zhang, Ning Jin, Chunyan Gu, Shizhuang Weng, Qian Wang, and Yu Chen. Integration of spectroscopy and image for identifying fusarium damage in wheat kernels. Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy, 236:118344, 2020. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S138614252030322X)
+- Etienne David, Simon Madec, Pouria Sadeghi-Tehran, Helge Aasen, Bangyou Zheng, Shouyang Liu, Norbert Kirchgessner, Goro Ishikawa, Koichi Nagasawa, Minhajul A Badhon, et al. Global wheat head detection (gwhd) dataset: a large and diverse dataset of high-resolution rgb-labelled images to develop and benchmark wheat head detection methods. Plant Phenomics, 2020. [Paper](https://spj.science.org/doi/full/10.34133/2020/3521852?adobe_mc=MCMID%3D13000678418609464879081490540568399952%7CMCORGID%3D242B6472541199F70A4C98A6%2540AdobeOrg%7CTS%3D1670889600)
+- Surabhi Lingwal, Komal Kumar Bhatia, and Manjeet Singh Tomer. Image-based wheat grain classification using convolutional neural network. Multimedia Tools and Applications, pages 1–25, 2021. [Paper](https://link.springer.com/article/10.1007/s11042-020-10174-3)
+- Kadir Sabanci, Ahmet Kayabasi, and Abdurrahim Toktas. Computer vision-based method for classification of wheat grains using artificial neural network. Journal of the Science of Food and Agriculture, 97(8):2588–2593, 2017. [Paper](https://scijournals.onlinelibrary.wiley.com/doi/abs/10.1002/jsfa.8080)
+- Wei Hu, Yangyu Huang, Li Wei, Fan Zhang, and Hengchao Li. Deep convolutional neural networks for hyperspectral image classification. Journal of Sensors, 2015(1):258619, 2015. [Paper]()
+- Viktor Slavkovikj, Steven Verstockt, Wesley De Neve, Sofie Van Hoecke, and Rik Van de Walle. Hyperspectral image classification with convolutional neural networks. In Proceedings of the 23rd ACM international conference on Multimedia, pages 1159–1162, 2015. [Paper](https://onlinelibrary.wiley.com/doi/full/10.1155/2015/258619)
+- Yidan Bao, Chunxiao Mi, Na Wu, Fei Liu, and Yong He. Rapid classification of wheat grain varieties using hyperspectral imaging and chemometrics. Applied Sciences, 9(19):4119, 2019. [Paper]()
+- Kemal Özkan, SEKE Erol, and IŞIK Şahin. Wheat kernels classification using visible-near infrared camera based on deep learning. Pamukkale Üniversitesi Mühendislik Bilimleri Dergisi, 27(5):618–626, 2021. [Paper](https://www.mdpi.com/2076-3417/9/19/4119)
+- Lv Yipeng, Lv Wenbing, Han Kaixuan, Tao Wentao, Zheng Ling, Weng Shizhuang, and Huang Linsheng. Determination of wheat kernels damaged by fusarium head blight using monochromatic images of effective wavelengths from hyperspectral imaging coupled with an architecture self-search deep network. Food Control, 135:108819, 2022. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0956713522000123)
+- Jingwu Zhu, Hao Li, Zhenhong Rao, and Haiyan Ji. Identification of slightly sprouted wheat kernels using hyperspectral imaging technology and different deep convolutional neural networks. Food Control, 143:109291, 2023. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0956713522004844)
+- Haotian Que, Xin Zhao, Xiulan Sun, Qibing Zhu, and Min Huang. Identification of wheat kernel varieties based on hyperspectral imaging technology and grouped convolutional neural network with feature intervals. Infrared Physics & Technology, 131:104653, 2023. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1350449523001111)
+###Wheat Crop Nutrient Estimation
+-Junjie Ma, Bangyou Zheng, and Yong He. Applications of a hyperspectral imaging system used to estimate wheat grain protein: A review. Frontiers in Plant Science, 13:837200, 2022. [Paper](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2022.837200/full)
+- Naiyue Hu, Wei Li, Chenghang Du, Zhen Zhang, Yanmei Gao, Zhencai Sun, Li Yang, Kang Yu, Yinghua Zhang, and Zhimin Wang. Predicting micronutrients of wheat using hyperspectral imaging. Food Chemistry, 343:128473, 2021. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0308814620323359)
+- Yufei Song, Guifa Teng, Yingchun Yuan, Tianzhen Liu, and Zhimei Sun. Assessment of wheat chlorophyll content by the multiple linear regression of leaf image features. Information processing in Agriculture, 8(2):232–243, 2021. [Paper](https://www.sciencedirect.com/science/article/pii/S2214317319303038)
+- Baohua Yang, Jifeng Ma, Xia Yao, Weixing Cao, and Yan Zhu. Estimation of leaf nitrogen content in wheat based on fusion of spectral features and deep features from near infrared hyperspectral imagery. Sensors, 21(2):613, 2021. [Paper](https://www.mdpi.com/1424-8220/21/2/613)
+- Ghizlane Astaoui, Jamal Eddine Dadaiss, Imane Sebari, Samir Benmansour, and Ettarid Mohamed. Mapping wheat dry matter and nitrogen content dynamics and estimation of wheat yield using uav multispectral imagery machine learning and a variety-based approach: Case study of morocco. AgriEngineering, 3(1):29–49, 2021. [Paper](https://www.mdpi.com/2624-7402/3/1/3)
+- Ning Lu, Yapeng Wu, Hengbiao Zheng, Xia Yao, Yan Zhu, Weixing Cao, and Tao Cheng. An assessment of multi-view spectral information from uav-based color-infrared images for improved estimation of nitrogen nutrition status in winter wheat. Precision Agriculture, 23(5):1653–1674, 2022. [Paper](https://link.springer.com/article/10.1007/s11119-022-09901-7) 
+- Ruiqi Du, Junying Chen, Youzhen Xiang, Zhitao Zhang, Ning Yang, Xizhen Yang, Zijun Tang, Han Wang, Xin Wang, Hongzhao Shi, et al. Incremental learning for crop growth parameters estimation and nitrogen diagnosis from hyperspectral data. Computers and Electronics in Agriculture, 215:108356, 2023. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0168169923007445)
