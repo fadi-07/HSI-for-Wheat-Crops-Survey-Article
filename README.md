@@ -173,8 +173,8 @@ improved diffusion models. In Proceedings of the IEEE/CVF Conference on Computer
 with semantic correlation diffusion model. arXiv preprint arXiv:2305.12410, 2023. [Paper](https://arxiv.org/abs/2305.12410)
 - Sam L Polk, Kangning Cui, Aland HY Chan, David A Coomes, Robert J Plemmons, and James M Murphy. Unsupervised diffusion and volume
 maximization-based clustering of hyperspectral images. Remote Sensing, 15(4):1053, 2023. [Paper](https://www.mdpi.com/2072-4292/15/4/1053)
-###Applications of HSI technology in wheat crops
-###Wheat Crop Classification
+### Applications of HSI technology in wheat crops
+### Wheat Crop Classification
 - Xiu Jin, Lu Jie, Shuai Wang, Hai Jun Qi, and Shao Wen Li. Classifying wheat hyperspectral pixels of healthy heads and fusarium head blight disease using a deep neural network in the wild field. Remote Sensing, 10(3):395, 2018. [Paper](https://www.mdpi.com/2072-4292/10/3/395)
 - Kshitiz Dhakal, Upasana Sivaramakrishnan, Xuemei Zhang, Kassaye Belay, Joseph Oakes, Xing Wei, and Song Li. Machine learning analysis of hyperspectral images of damaged wheat kernels. Sensors, 23(7):3523, 2023. [Paper](https://www.mdpi.com/1424-8220/23/7/3523)
 - Erik Schou Dreier, Klavs Martin Sorensen, Toke Lund-Hansen, Birthe Møller Jespersen, and Kim Steenstrup Pedersen. Hyperspectral imaging for classification of bulk grain samples with deep convolutional neural networks. Journal of Near Infrared Spectroscopy, 30(3):107–121, 2022. [Paper](https://journals.sagepub.com/doi/abs/10.1177/09670335221078356)
