@@ -39,6 +39,7 @@ Hyperspectral imaging allows us to see beyond what human eyes can perceive, open
   - [DBN](#DBN)
   - [SAE](#SAE)
   - [Diffusion](#Diffusion)
+  - [Change detection](#change-detection)
 - [Applications of HSI technology in wheat crops](#Applications-of-hsi-technology-in-wheat-crops)
   - [Wheat Crop Classification](#Wheat-Crop-Classification)
   - [Wheat Crop Nutrient Estimation](#Wheat-Crop-Nutrient-Estimation)
@@ -173,6 +174,10 @@ improved diffusion models. In Proceedings of the IEEE/CVF Conference on Computer
 with semantic correlation diffusion model. arXiv preprint arXiv:2305.12410, 2023. [Paper](https://arxiv.org/abs/2305.12410)
 - Sam L Polk, Kangning Cui, Aland HY Chan, David A Coomes, Robert J Plemmons, and James M Murphy. Unsupervised diffusion and volume
 maximization-based clustering of hyperspectral images. Remote Sensing, 15(4):1053, 2023. [Paper](https://www.mdpi.com/2072-4292/15/4/1053)
+### Change detection
+- Meiqi Hu, Chen Wu, Bo Du, and Liangpei Zhang. Binary change guided hyperspectral multiclass change detection. IEEE Transactions on Image Processing, 32:791–806, 2023. [Paper](https://ieeexplore.ieee.org/document/10011164)
+- Bo Du, Lixiang Ru, Chen Wu, and Liangpei Zhang. Unsupervised deep slow feature analysis for change detection in multi-temporal remote sensing images. IEEE Transactions on Geoscience and Remote Sensing, 57(12):9976–9992, 2019. [Paper](https://ieeexplore.ieee.org/document/8824216)
+- Meiqi Hu, Chen Wu, and Liangpei Zhang. Hypernet: Self-supervised hyperspectral spatial–spectral feature understanding network for hyperspectral change detection. IEEE Transactions on Geoscience and Remote Sensing, 60:1–17, 2022. [Paper](https://ieeexplore.ieee.org/document/9934933)
 ### Applications of HSI technology in wheat crops
 ### Wheat Crop Classification
 - Xiu Jin, Lu Jie, Shuai Wang, Hai Jun Qi, and Shao Wen Li. Classifying wheat hyperspectral pixels of healthy heads and fusarium head blight disease using a deep neural network in the wild field. Remote Sensing, 10(3):395, 2018. [Paper](https://www.mdpi.com/2072-4292/10/3/395)
@@ -204,7 +209,7 @@ maximization-based clustering of hyperspectral images. Remote Sensing, 15(4):105
 - Kai-Yun Li, Raul Sampaio de Lima, Niall G Burnside, Ele Vahtmäe, Tiit Kutser, Karli Sepp, Victor Henrique Cabral Pinheiro, Ming-Der Yang, Ants Vain, and Kalev Sepp. Toward automated machine learning-based hyperspectral image analysis in crop yield and biomass estimation. Remote Sensing, 14(5):1114, 2022. [Paper](https://www.mdpi.com/2072-4292/14/5/1114)
 - Shuaipeng Fei, Muhammad Adeel Hassan, Yonggui Xiao, Awais Rasheed, Xianchun Xia, Yuntao Ma, Luping Fu, Zhen Chen, and Zhonghu He. Application of multi-layer neural network and hyperspectral reflectance in genome-wide association study for grain yield in bread wheat. Field Crops Research, 289:108730, 2022. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S037842902200301X)
 - Yucun Yang, Rui Nan, Tongxi Mi, Yingxin Song, Fanghui Shi, Xinran Liu, Yunqi Wang, Fengli Sun, Yajun Xi, and Chao Zhang. Rapid and nondestructive evaluation of wheat chlorophyll under drought stress using hyperspectral imaging. International Journal of Molecular Sciences, 24(6):5825, 2023. [Paper](https://www.mdpi.com/1422-0067/24/6/5825)
-- Shaohua Zhang, Xinghui Qi, Jianzhao Duan, Xinru Yuan, Haiyan Zhang, Wei Feng, Tiancai Guo, and Li He. Comparison of attention mechanismbased deep learning and transfer strategies for wheat yield estimation using multisource temporal drone imagery. IEEE Transactions on Geoscience and Remote Sensing, 62:1–23, 2024. [Paper](https://ieeexplore-ieee-org.sndl1.arn.dz/abstract/document/10538477)
+- Shaohua Zhang, Xinghui Qi, Jianzhao Duan, Xinru Yuan, Haiyan Zhang, Wei Feng, Tiancai Guo, and Li He. Comparison of attention mechanismbased deep learning and transfer strategies for wheat yield estimation using multisource temporal drone imagery. IEEE Transactions on Geoscience and Remote Sensing, 62:1–23, 2024. [Paper](https://ieeexplore.ieee.org/document/10538477)
 - Ruomei Zhao, Weijie Tang, Mingjia Liu, Nan Wang, Hong Sun, Minzan Li, and Yuntao Ma. Spatial-spectral feature extraction for in-field chlorophyll content estimation using hyperspectral imaging. Biosystems Engineering, 246:263–276, 2024. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1537511024001867)
 - Tao Liu, Tianle Yang, Shaolong Zhu, Nana Mou, Weijun Zhang, Wei Wu, Yuanyuan Zhao, Zhaosheng Yao, Jianjun Sun, Chen Chen, et al. Estimation of wheat biomass based on phenological identification and spectral response. Computers and Electronics in Agriculture, 222:109076, 2024. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0168169924004678)
 ### Wheat Crop Disease Monitoring and Detection
